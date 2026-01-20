@@ -32,7 +32,7 @@ export default function MessageScreen({ onNext }) {
                         Thank you Meri Dunia mein aany kalie.....
                         I hope today wraps you in love 🤍, laughter 😄, and beautiful surprises 🎁✨.
                         You’re truly one of a kind 💎, and my heart smiles thinking of you 💓.
-                        Stay amazing 🌟, stay magical ✨… and never forget how special you are 🥰💫
+                        Stay amazing 🌟, stay magical tubah ✨… and never forget how special you are 🥰💫
 
                         Guroooor 😄💓
                     </p>
